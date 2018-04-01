@@ -1,0 +1,22 @@
+{
+  "name": "serverless-event",
+  "version": "1.0.0",
+  "description": "Testing the deployment of binary files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imtpalmer/serverless-event.git"
+  },
+  "author": "Thomas Palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imtpalmer/serverless-event/issues"
+  },
+  "homepage": "https://github.com/imtpalmer/serverless-event#readme",
+  "dependencies": {
+    "serverless-python-requirements": "^4.0.0"
+  }
+}
